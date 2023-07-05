@@ -1,5 +1,5 @@
 # alex_temp
-Temperature evaluation from spectral data in CSV format.
+Octave function for temperature evaluation from spectral data in CSV format.
 Used specifically for ALEX Pd and Ni 2023 data.
 There are two important files in this project:
 1. temp.m  An Octave function that form an input filename finds a wavelength of maximum intensity and from there calculates the temperature of a black body.
