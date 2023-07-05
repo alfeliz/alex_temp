@@ -1,1 +1,3 @@
 *.m linguist-detectable=false
+*.m linguist-language=Octave
+
